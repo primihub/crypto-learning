@@ -1,0 +1,3 @@
+# Linux
+build:linux --cxxopt=-std=c++17
+build:linux --host_cxxopt=-std=c++17
